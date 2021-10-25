@@ -32,3 +32,23 @@ I am passionate about open and reproducible research, and enjoy engaging the pub
   - Working collaboratively on a wide range of systematic review projects.
   - Developing machine learning and text mining tools to aid systematic review.
   - Providing methodological support to other researchers conducting systematic reviews.
+
+## Publications
+
+- **Building a systematic online living evidence summary of COVID-19 research**
+  <br>
+  Hair K, Sena E, **Wilson E**, et al. 2021. *Journal of EAHIL*. 17(2),21-26
+  <br>
+  <i class="ai ai-open-access"></i> <i class="fa fa-database"></i>
+  [<a href="https://doi.org/10.32384/jeahil17465" aria-label="Read Building a systematic online living evidence summary of COVID-19 research on the JEAHIL website">Article</a>]
+  [<a href="https://camarades.shinyapps.io/COVID-19-SOLES/" aria-label="Explore the COVID-19 living evidence summary dataset">Data</a>]
+    
+## Open code & datasets
+
+- **Survey of open research practices**
+  <br>
+  Jaquiery M, Thompson J, **Wilson E**, Munafo M. 2021. *University of Bristol Data Repository*.
+  <br>
+  <i class="fa fa-database"></i> 
+  [<a href="https://doi.org/10.5523/bris.32kwb3vmi5vaa26gpiusnajkfn" aria-label="Download open research practices survey data and report from the University of Bristol Data Repository">Data & code</a>]
+  <strong><i style="color:#e74d3c">Survey data and report</i></strong>
