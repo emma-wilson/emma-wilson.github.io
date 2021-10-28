@@ -136,3 +136,18 @@ I am passionate about open and reproducible research, and enjoy engaging the pub
   <br>
   - Participating in 14 live text chats with small groups of pupils aged 9-18, engaging 120 students from 10 schools (33% of pupils were from widening participation schools).
   - Voted Scientist of the Week by the students in the Coding Zone.
+
+## Blogs
+
+- **My experience with Edinburgh BioQuarter’s STEM Clubs**, Edinburgh BioQuarter, Aug 2021 
+  [<a href="https://edinburghbioquarter.com/my-experience-with-edinburgh-bioquarters-stem-clubs/" aria-label="Read My experience with Edinburgh BioQuarter’s STEM Clubs blog">Article</a>]
+
+## Responsibilities
+
+- **CREST Award Assessor for the British Science Association**, Jan 2021 - present
+- **Nuffield Research Placement Supervisor**, Jul - Aug 2021
+
+## Awards
+
+- **Team Winner of the British Neuroscience Association Credibility Prize**, 2021 
+  [<a href="https://www.bna.org.uk/mediacentre/news/winners-of-the-2021-credibility-prize/" aria-label="Read about the British Neuroscience Association's Credibility Prize  winners">Article</a>]
