@@ -112,3 +112,16 @@ I am passionate about open and reproducible research, and enjoy engaging the pub
   <i class="ai ai-osf"></i> 
   [<a href="https://osf.io/w7vby/" aria-label="Download How the UK Reproducibility Network is influenced by the Carpentries talk slides from OSF">Slides</a>]
 
+## Teaching
+
+- **Train-the-trainer courses: UK Reproducibility Network Open Research Practices**
+  <br>
+  *UK Reproducibility Network*, Apr 2021 - (expected) Apr 2022, Online / The University of Bristol
+  <br>
+  Delivering a series of 1-day train-the-trainer courses, aiming to equip researchers with a workshop they can teach at their institution in one of the following open research practices: data sharing, preprints, preregistration, open code, and open access.
+
+- **Workshop: How to conduct a preclincal animal systematic review & meta-analysis using SyRF**
+  <br>
+  *CAMARADES*, 25-27 Oct 2021, Online
+  <br>
+  Delivering a 3-half-day workshop aiming to equip researchers the skills required to conduct good quality systematic reviews and meta-analyses of precliincal animal data using the Systematic Review Facility (SyRF) tool.
