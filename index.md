@@ -42,7 +42,16 @@ I am passionate about open and reproducible research, and enjoy engaging the pub
   <i class="ai ai-open-access"></i> <i class="fa fa-database"></i>
   [<a href="https://doi.org/10.32384/jeahil17465" aria-label="Read Building a systematic online living evidence summary of COVID-19 research on the JEAHIL website">Article</a>]
   [<a href="https://camarades.shinyapps.io/COVID-19-SOLES/" aria-label="Explore the COVID-19 living evidence summary dataset">Data</a>]
-    
+ 
+## Preprints
+
+- **Meta-analysis on reporting practices as a source of heterogeneity in in vitro cancer research**
+  <br>
+  Sander T, Ghanawi J, **Wilson E**, et al. 2021. *bioRxiv*. 2021.10.05.463182
+  <br>
+  <i class="ai ai-open-access"></i>
+  [<a href="https://doi.org/10.1101/2021.10.05.463182" aria-label="Read BMeta-analysis on reporting practices as a source of heterogeneity in in vitro cancer research on the bio archive website">Preprint</a>]
+
 ## Open code & datasets
 
 - **Survey of open research practices**
