@@ -50,7 +50,7 @@ I am passionate about open and reproducible research, and enjoy engaging the pub
   Sander T, Ghanawi J, **Wilson E**, et al. 2021. *bioRxiv*. 2021.10.05.463182
   <br>
   <i class="ai ai-biorvix"></i>
-  [<a href="https://doi.org/10.1101/2021.10.05.463182" aria-label="Read Meta-analysis on reporting practices as a source of heterogeneity in in vitro cancer research on the bio archive website">Preprint</a>]
+  [<a href="https://www.biorxiv.org/content/10.1101/2021.10.05.463182v1" aria-label="Read Meta-analysis on reporting practices as a source of heterogeneity in in vitro cancer research on the bio archive website">Preprint</a>]
 
 ## Open code & datasets
 
