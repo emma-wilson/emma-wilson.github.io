@@ -96,3 +96,19 @@ I am passionate about open and reproducible research, and enjoy engaging the pub
   <br>
   <i class="ai ai-osf"></i> 
   [<a href="https://osf.io/p4xar" aria-label="Download Systematic review of the efficacy of NMDA receptor antagonists in the in vitro PC-12 oxygen-glucose deprivation stroke model poster from OSF">Poster</a>]
+
+## Other Talks
+
+- **Anxiety and STEM: Tips and experiences from a STEM Ambassador**
+  <br>
+  *STEM Ambassadors in Scotland, SSERC*, Aug 2021
+  <br>
+  [Slides]
+
+- **How the UK Reproducibility Network is influenced by the Carpentries**
+  <br>
+  *Edinburgh Neuroscience and Edinburgh Data Carpentries*, Jun 2021, Online
+  <br>
+  <i class="ai ai-osf"></i> 
+  [<a href="https://osf.io/w7vby/" aria-label="Download How the UK Reproducibility Network is influenced by the Carpentries talk slides from OSF">Slides</a>]
+
