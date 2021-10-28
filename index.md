@@ -125,3 +125,14 @@ I am passionate about open and reproducible research, and enjoy engaging the pub
   *CAMARADES*, 25-27 Oct 2021, Online
   <br>
   Delivering a 3-half-day workshop aiming to equip researchers the skills required to conduct good quality systematic reviews and meta-analyses of precliincal animal data using the Systematic Review Facility (SyRF) tool.
+
+## Science Communication & Engagement
+
+- **STEM Ambassadors Programme**, Oct 2020 - present
+  <br>
+  - Working with teachers to provide free STEM outreach activities for primary and secondary pupils, including career talks, STEM clubs, and subject information sessions.
+
+- **I'm a Scientist Programme**, Jun - Aug 2020
+  <br>
+  - Participating in 14 live text chats with small groups of pupils aged 9-18, engaging 120 students from 10 schools (33% of pupils were from widening participation schools).
+  - Voted Scientist of the Week by the students in the Coding Zone.
