@@ -14,7 +14,7 @@ I am passionate about open and reproducible research, and enjoy engaging the pub
 
 - **PhD**, *The University of Edinburgh*, Oct 2021 - (expected) Mar 2025
   <br>
-  - Thesis: Developing a meta-research framework for preclinical models of autism, supervised by Dr Emily Sena, Prof Peter Kind.
+  - Thesis: Developing a meta-research framework for preclinical models of autism, supervised by Dr Emily Sena and Prof Peter Kind.
 
 - **B.Sc. in Neuroscience (Hons.), 2:1**, *The University of Edinburgh*, Sep 2015 - May 2019
   <br>
@@ -43,8 +43,6 @@ I am passionate about open and reproducible research, and enjoy engaging the pub
   [<a href="https://doi.org/10.32384/jeahil17465" aria-label="Read Building a systematic online living evidence summary of COVID-19 research on the JEAHIL website">Article</a>]
   [<a href="https://camarades.shinyapps.io/COVID-19-SOLES/" aria-label="Explore the COVID-19 living evidence summary dataset">Data</a>]
 
-## Preprints
-
 - **Meta-analysis on reporting practices as a source of heterogeneity in in vitro cancer research**
   <br>
   Sander T, Ghanawi J, **Wilson E**, et al. 2021. *bioRxiv*. 2021.10.05.463182
@@ -52,7 +50,7 @@ I am passionate about open and reproducible research, and enjoy engaging the pub
   <i class="ai ai-biorxiv"></i>
   [<a href="https://www.biorxiv.org/content/10.1101/2021.10.05.463182v1" aria-label="Read Meta-analysis on reporting practices as a source of heterogeneity in in vitro cancer research on the bio archive website">Preprint</a>]
 
-## Open code & datasets
+## Open Code & Datasets
 
 - **Survey of open research practices**
   <br>
