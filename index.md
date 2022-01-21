@@ -18,7 +18,7 @@ I am passionate about open and reproducible research, and enjoy engaging the pub
 
 - **B.Sc. in Neuroscience (Hons.), 2:1**, *The University of Edinburgh*, Sep 2015 - May 2019
   <br>
-  - Dissertation: Systematic review of the efficacy of NMDA receptor antagonists in the in vitro PC-12 oxygen-glucose deprivation stroke model, supervised by Dr Emily Sena.
+  - Dissertation: Systematic review of the efficacy of NMDA receptor antagonists in the *in vitro* PC-12 oxygen-glucose deprivation stroke model, supervised by Dr Emily Sena.
 
 ## Research Experience
 
@@ -43,7 +43,7 @@ I am passionate about open and reproducible research, and enjoy engaging the pub
   [<a href="https://doi.org/10.32384/jeahil17465" aria-label="Read Building a systematic online living evidence summary of COVID-19 research on the JEAHIL website">Article</a>]
   [<a href="https://camarades.shinyapps.io/COVID-19-SOLES/" aria-label="Explore the COVID-19 living evidence summary dataset">Data</a>]
 
-- **Meta-analysis on reporting practices as a source of heterogeneity in in vitro cancer research**
+- **Meta-analysis on reporting practices as a source of heterogeneity in *in vitro* cancer research**
   <br>
   Sander T, Ghanawi J, **Wilson E**, et al. 2021. *bioRxiv*. 2021.10.05.463182
   <br>
@@ -61,7 +61,7 @@ I am passionate about open and reproducible research, and enjoy engaging the pub
   
 ## Conference Proceedings
 
-- **An automated screening tool to identify in vitro research**
+- **An automated screening tool to identify *in vitro* research**
   <br>
   *Edinburgh Neuroscience Day*, Sep 2021, Online
   <br>
@@ -116,13 +116,13 @@ I am passionate about open and reproducible research, and enjoy engaging the pub
   <br>
   *UK Reproducibility Network*, Apr 2021 - (expected) Apr 2022, Online / The University of Bristol
   <br>
-  Delivering a series of 1-day train-the-trainer courses, aiming to equip researchers with a workshop they can teach at their institution in one of the following open research practices: data sharing, preprints, preregistration, open code, and open access.
+  Delivered a series of 1-day train-the-trainer courses, aiming to equip researchers with a workshop they can teach at their institution in one of the following open research practices: data sharing, preprints, preregistration, open code, and open access.
 
-- **Workshop: How to conduct a preclincal animal systematic review & meta-analysis using SyRF**
+- **Workshop: How to conduct a preclinical animal systematic review & meta-analysis using SyRF**
   <br>
   *CAMARADES*, 25-27 Oct 2021 & 30 Feb - 2 Mar 2022, Online
   <br>
-  Delivering a 3-half-day workshop aiming to equip researchers the skills required to conduct good quality systematic reviews and meta-analyses of precliincal animal data using the Systematic Review Facility (SyRF) tool.
+  Delivered a 3-half-day workshop aiming to equip researchers with the skills required to conduct good quality systematic reviews and meta-analyses of preclinical animal data using the Systematic Review Facility (SyRF) tool.
 
 ## Science Communication & Engagement
 
@@ -132,7 +132,7 @@ I am passionate about open and reproducible research, and enjoy engaging the pub
 
 - **I'm a Scientist Programme**, Jun - Aug 2020
   <br>
-  - Participating in 14 live text chats with small groups of pupils aged 9-18, engaging 120 students from 10 schools (33% of pupils were from widening participation schools).
+  - Participated in 14 live text chats with small groups of pupils aged 9-18, engaging 120 students from 10 schools (33% of pupils were from widening participation schools).
   - Voted Scientist of the Week by the students in the Coding Zone.
 
 ## Blogs
