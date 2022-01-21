@@ -14,7 +14,7 @@ I am passionate about open and reproducible research, and enjoy engaging the pub
 
 - **PhD**, *The University of Edinburgh*, Oct 2021 - (expected) Mar 2025
   <br>
-  - Thesis: Developing a meta-research framework for preclinical models of autism, supervised by Dr Emily Sena and Prof Peter Kind.
+  - Thesis: Developing a meta-research framework for preclinical models of ASD, supervised by Dr Emily Sena and Prof Peter Kind.
 
 - **B.Sc. in Neuroscience (Hons.), 2:1**, *The University of Edinburgh*, Sep 2015 - May 2019
   <br>
@@ -24,7 +24,7 @@ I am passionate about open and reproducible research, and enjoy engaging the pub
 
 - **Research Associate (0.2FTE)**, *UK Reproducibility Network*, Feb 2021 - (expected) May 2022
   <br>
-  - Developing and delivering train-the-trainer courses on a variety of open research topics.
+  - Developing training materials on a variety of open research topics.
   - Analysing survey results to understand researcher training needs.
 
 - **Research Assistant**, *CAMARADES, The University of Edinburgh*, Aug 2019 - Sep 2021
@@ -120,7 +120,7 @@ I am passionate about open and reproducible research, and enjoy engaging the pub
 
 - **Workshop: How to conduct a preclincal animal systematic review & meta-analysis using SyRF**
   <br>
-  *CAMARADES*, 25-27 Oct 2021, Online
+  *CAMARADES*, 25-27 Oct 2021 & 30 Feb - 2 Mar 2022, Online
   <br>
   Delivering a 3-half-day workshop aiming to equip researchers the skills required to conduct good quality systematic reviews and meta-analyses of precliincal animal data using the Systematic Review Facility (SyRF) tool.
 
@@ -142,8 +142,12 @@ I am passionate about open and reproducible research, and enjoy engaging the pub
 
 ## Responsibilities
 
-- **CREST Award Assessor for the British Science Association**, Jan 2021 - present
-- **Nuffield Research Placement Supervisor**, Jul - Aug 2021
+- **CREST Award Assessor, British Science Association**, Jan 2021 - present
+- **Supervisor, Nuffield Research Placements**, Jul - Aug 2021
+
+## Grants
+
+- **The University of Edinburgh Student Experience Grant (£4,400)**, 2022
 
 ## Awards
 
