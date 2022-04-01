@@ -14,7 +14,7 @@ I am passionate about open and reproducible research, and enjoy engaging the pub
 
 - **PhD**, *The University of Edinburgh*, Oct 2021 - (expected) Mar 2025
   <br>
-  - Thesis: Developing a meta-research framework for preclinical models of ASD, supervised by Dr Emily Sena and Prof Peter Kind.
+  - Thesis: Developing a meta-research framework for rodent models of ASD/ID, supervised by Dr Emily Sena and Prof Peter Kind.
 
 - **B.Sc. in Neuroscience (Hons.), 2:1**, *The University of Edinburgh*, Sep 2015 - May 2019
   <br>
@@ -67,20 +67,20 @@ I am passionate about open and reproducible research, and enjoy engaging the pub
   <br>
   [Poster]
 
-- **Developing a living evidence summary of preclinical in vivo focal cerebral ischaemia research**
+- **Developing a living evidence summary of preclinical *in vivo* focal cerebral ischaemia research**
   <br>
   *European Stroke Organisation Conference*, Sep 2021, Online
   <br>
   [Poster]
 
-- **Automated screening to assist a living systematic summary of primary in vivo focal cerebral ischaemic stroke research**
+- **Automated screening to assist a living systematic summary of primary *in vivo* focal cerebral ischaemic stroke research**
   <br>
   *Neuromatch 3.0 Conference*, Oct 2020, Online
   <br>
   <i class="ai ai-osf"></i> 
   [<a href="https://osf.io/5krx7" aria-label="Download Automated screening to assist a living systematic summary of primary in vivo focal cerebral ischaemic stroke research talk slides from OSF">Slides</a>]
   
-- **Full text compared with title/abstract searching to identify reports of in vitro research modelling stroke**
+- **Full text compared with title/abstract searching to identify reports of *in vitro* research modelling stroke**
   <br>
   *REWARD / EQUATOR Conference*, Feb 2020, Berlin, Germany
   <br>
@@ -88,7 +88,7 @@ I am passionate about open and reproducible research, and enjoy engaging the pub
   [<a href="https://osf.io/nhjeg" aria-label="Download Full text compared with title/abstract searching to identify reports of in vitro research modelling stroke poster from OSF">Poster</a>]
   
 
-- **Systematic review of the efficacy of NMDA receptor antagonists in the in vitro PC-12 oxygen-glucose deprivation stroke model**
+- **Systematic review of the efficacy of NMDA receptor antagonists in the *in vitro* PC-12 oxygen-glucose deprivation stroke model**
   <br>
   *REWARD / EQUATOR Conference*, Feb 2020, Berlin, Germany
   <br>
@@ -114,7 +114,7 @@ I am passionate about open and reproducible research, and enjoy engaging the pub
 
 - **Train-the-trainer courses: UK Reproducibility Network Open Research Practices**
   <br>
-  *UK Reproducibility Network*, Apr 2021 - (expected) Apr 2022, Online / The University of Bristol
+  *UK Reproducibility Network*, Apr 2021 - May 2022, Online / The University of Bristol
   <br>
   Delivered a series of 1-day train-the-trainer courses, aiming to equip researchers with a workshop they can teach at their institution in one of the following open research practices: data sharing, preprints, preregistration, open code, and open access.
 
@@ -137,6 +137,7 @@ I am passionate about open and reproducible research, and enjoy engaging the pub
 
 ## Blogs
 
+- **Meta-Research: Using Science to Study Itself**, STEM Ambassadors in Scotland, Feb 2022 [[<a href="https://www.stemambassadors.scot/post/meta-research-using-science-to-study-itself" aria-label="Read the Meta-Research: Using Science to Study Itself blog">Article</a>]]
 - **My experience with Edinburgh BioQuarter’s STEM Clubs**, Edinburgh BioQuarter, Aug 2021 
   [<a href="https://edinburghbioquarter.com/my-experience-with-edinburgh-bioquarters-stem-clubs/" aria-label="Read My experience with Edinburgh BioQuarter’s STEM Clubs blog">Article</a>]
 
