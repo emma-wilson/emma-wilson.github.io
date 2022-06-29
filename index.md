@@ -47,7 +47,8 @@ I am passionate about open and reproducible research, and enjoy engaging the pub
   Sander T, Ghanawi J, **Wilson E**, et al. 2022. *BMJ Open Science*. 6(1):e100272
   <br>
   <i class="ai ai-open-access"></i> <i class="fa fa-database"></i>
-  [<a href="http://dx.doi.org/10.1136/bmjos-2021-100272" aria-label="Read Meta-analysis on reporting practices as a source of heterogeneity in in vitro cancer research on the BMJ open science website">Preprint</a>]
+  [<a href="http://dx.doi.org/10.1136/bmjos-2021-100272" aria-label="Read Meta-analysis on reporting practices as a source of heterogeneity in in vitro cancer research on the BMJ open science website">Article</a>]
+  [<a href="https://camarades.shinyapps.io/COVID-19-SOLES/" aria-label="Explore the COVID-19 living evidence summary dataset">Data</a>]
   
 - **Building a systematic online living evidence summary of COVID-19 research**
   <br>
@@ -55,7 +56,7 @@ I am passionate about open and reproducible research, and enjoy engaging the pub
   <br>
   <i class="ai ai-open-access"></i> <i class="fa fa-database"></i>
   [<a href="https://doi.org/10.32384/jeahil17465" aria-label="Read Building a systematic online living evidence summary of COVID-19 research on the JEAHIL website">Article</a>]
-  [<a href="https://camarades.shinyapps.io/COVID-19-SOLES/" aria-label="Explore the COVID-19 living evidence summary dataset">Data</a>]
+  [<a href="https://openscience.bmj.com/content/bmjos/suppl/2022/06/01/bmjos-2021-100272.DC1/bmjos-2021-100272supp001_data_supplement.pdf" aria-label="View the supplementary data">Data</a>]
 
 ## Open Code & Datasets
 
@@ -144,7 +145,7 @@ I am passionate about open and reproducible research, and enjoy engaging the pub
 
 ## Blogs
 
-- **Meta-Research: Using Science to Study Itself**, STEM Ambassadors in Scotland, Feb 2022 [[<a href="https://www.stemambassadors.scot/post/meta-research-using-science-to-study-itself" aria-label="Read the Meta-Research: Using Science to Study Itself blog">Article</a>]]
+- **Meta-Research: Using Science to Study Itself**, STEM Ambassadors in Scotland, Feb 2022 [<a href="https://www.stemambassadors.scot/post/meta-research-using-science-to-study-itself" aria-label="Read the Meta-Research: Using Science to Study Itself blog">Article</a>]
 - **My experience with Edinburgh BioQuarter’s STEM Clubs**, Edinburgh BioQuarter, Aug 2021 
   [<a href="https://edinburghbioquarter.com/my-experience-with-edinburgh-bioquarters-stem-clubs/" aria-label="Read My experience with Edinburgh BioQuarter’s STEM Clubs blog">Article</a>]
 
