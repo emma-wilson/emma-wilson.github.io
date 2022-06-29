@@ -11,32 +11,23 @@ I specialise in the meta-research of preclinical data. I am currently supervised
 I am passionate about open and reproducible research, and enjoy engaging the public with my research.
 
 ## Education
-### The University of Edinburgh (2021 - 2025)
-**PhD in Clinical Brain Sciences**
-Thesis: Developing a meta-research framework for *in vivo* models of ASD/ID, supervised by Dr Emily Sena and Prof Peter Kind.
 
-### The University of Edinburgh (2015 - 2019)
-**BSc in Neuroscience (Hons)**
-Dissertation: Systematic review of the efficacy of NMDA receptor antagonists in the *in vitro* PC-12 oxygen-glucose deprivation stroke model, supervised by Dr Emily Sena.
-
-## Education
-
-- **PhD**, *The University of Edinburgh*, Oct 2021 - (expected) Mar 2025
+- **PhD**, *The University of Edinburgh*, 2021 - present
   <br>
   - Thesis: Developing a meta-research framework for *in vivo* models of ASD/ID, supervised by Dr Emily Sena and Prof Peter Kind.
 
-- **B.Sc. in Neuroscience (Hons.), 2:1**, *The University of Edinburgh*, Sep 2015 - May 2019
+- **BSc in Neuroscience (Hons.), 2:1**, *The University of Edinburgh*, 2015 - 2019
   <br>
   - Dissertation: Systematic review of the efficacy of NMDA receptor antagonists in the *in vitro* PC-12 oxygen-glucose deprivation stroke model, supervised by Dr Emily Sena.
 
 ## Research Experience
 
-- **Research Associate (0.2FTE)**, *UK Reproducibility Network, The University of Bristol*, Feb 2021 - May 2022
+- **Research Associate (0.2FTE)**, *UK Reproducibility Network, The University of Bristol*, 2021 - 2022
   <br>
   - Developing training materials on a variety of open research topics.
   - Analysing survey results to understand researcher training needs.
 
-- **Research Assistant**, *CAMARADES, The University of Edinburgh*, Aug 2019 - Sep 2021
+- **Research Assistant**, *CAMARADES, The University of Edinburgh*, 2019 - 2021
   <br>
   - Working collaboratively on a wide range of systematic review projects.
   - Developing machine learning and text mining tools to aid systematic review.
@@ -44,7 +35,7 @@ Dissertation: Systematic review of the efficacy of NMDA receptor antagonists in 
 
 ## Other Work Experience
 
-- **Website Editor (casual hours)**, *Salvesen Mindroom Centre, The University of Edinburgh*, May 2022 - Dec 2022
+- **Website Editor (casual hours)**, *Salvesen Mindroom Centre, The University of Edinburgh*, 2022
   <br>
   - Creating and maintaining web pages related to the LEANS (Learning About Neurodiversity in Schools) project.
   - Analysing resource download data
