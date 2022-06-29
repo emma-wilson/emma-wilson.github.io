@@ -14,7 +14,7 @@ I am passionate about open and reproducible research, and enjoy engaging the pub
 
 - **PhD**, *The University of Edinburgh*, Oct 2021 - (expected) Mar 2025
   <br>
-  - Thesis: Developing a meta-research framework for rodent models of ASD/ID, supervised by Dr Emily Sena and Prof Peter Kind.
+  - Thesis: Developing a meta-research framework for *in vivo* models of ASD/ID, supervised by Dr Emily Sena and Prof Peter Kind.
 
 - **B.Sc. in Neuroscience (Hons.), 2:1**, *The University of Edinburgh*, Sep 2015 - May 2019
   <br>
@@ -22,7 +22,7 @@ I am passionate about open and reproducible research, and enjoy engaging the pub
 
 ## Research Experience
 
-- **Research Associate (0.2FTE)**, *UK Reproducibility Network*, Feb 2021 - (expected) May 2022
+- **Research Associate (0.2FTE)**, *UK Reproducibility Network, The University of Bristol*, Feb 2021 - May 2022
   <br>
   - Developing training materials on a variety of open research topics.
   - Analysing survey results to understand researcher training needs.
@@ -33,8 +33,22 @@ I am passionate about open and reproducible research, and enjoy engaging the pub
   - Developing machine learning and text mining tools to aid systematic review.
   - Providing methodological support to other researchers conducting systematic reviews.
 
+## Other Work Experience
+
+- **Website Editor (casual hours)**, *Salvesen Mindroom Centre, The University of Edinburgh*, May 2022 - Dec 2022
+  <br>
+  - Creating and maintaining web pages related to the LEANS (Learning About Neurodiversity in Schools) project.
+  - Analysing resource download data
+
 ## Publications
 
+- **Meta-analysis on reporting practices as a source of heterogeneity in *in vitro* cancer research**
+  <br>
+  Sander T, Ghanawi J, **Wilson E**, et al. 2022. *BMJ Open Science*. 6(1):e100272
+  <br>
+  <i class="ai ai-open-access"></i> <i class="fa fa-database"></i>
+  [<a href="http://dx.doi.org/10.1136/bmjos-2021-100272" aria-label="Read Meta-analysis on reporting practices as a source of heterogeneity in in vitro cancer research on the BMJ open science website">Preprint</a>]
+  
 - **Building a systematic online living evidence summary of COVID-19 research**
   <br>
   Hair K, Sena E, **Wilson E**, et al. 2021. *Journal of EAHIL*. 17(2),21-26
@@ -42,13 +56,6 @@ I am passionate about open and reproducible research, and enjoy engaging the pub
   <i class="ai ai-open-access"></i> <i class="fa fa-database"></i>
   [<a href="https://doi.org/10.32384/jeahil17465" aria-label="Read Building a systematic online living evidence summary of COVID-19 research on the JEAHIL website">Article</a>]
   [<a href="https://camarades.shinyapps.io/COVID-19-SOLES/" aria-label="Explore the COVID-19 living evidence summary dataset">Data</a>]
-
-- **Meta-analysis on reporting practices as a source of heterogeneity in *in vitro* cancer research**
-  <br>
-  Sander T, Ghanawi J, **Wilson E**, et al. 2021. *bioRxiv*. 2021.10.05.463182
-  <br>
-  <i class="ai ai-biorxiv"></i>
-  [<a href="https://www.biorxiv.org/content/10.1101/2021.10.05.463182v1" aria-label="Read Meta-analysis on reporting practices as a source of heterogeneity in in vitro cancer research on the bio archive website">Preprint</a>]
 
 ## Open Code & Datasets
 
@@ -60,6 +67,12 @@ I am passionate about open and reproducible research, and enjoy engaging the pub
   [<a href="https://doi.org/10.5523/bris.32kwb3vmi5vaa26gpiusnajkfn" aria-label="Download open research practices survey data and report from the University of Bristol Data Repository">Data & code</a>]
   
 ## Conference Proceedings
+
+- **Open research in the classroom: a call for student participants**
+  <br>
+  *Edinburgh Open Research Conference*, May 2022, Edinburgh, UK
+  <br>
+  [Slides] [Poster]
 
 - **An automated screening tool to identify *in vitro* research**
   <br>
@@ -112,15 +125,9 @@ I am passionate about open and reproducible research, and enjoy engaging the pub
 
 ## Teaching
 
-- **Train-the-trainer courses: UK Reproducibility Network Open Research Practices**
-  <br>
-  *UK Reproducibility Network*, Apr 2021 - May 2022, Online / The University of Bristol
-  <br>
-  Delivered a series of 1-day train-the-trainer courses, aiming to equip researchers with a workshop they can teach at their institution in one of the following open research practices: data sharing, preprints, preregistration, open code, and open access.
-
 - **Workshop: How to conduct a preclinical animal systematic review & meta-analysis using SyRF**
   <br>
-  *CAMARADES*, 25-27 Oct 2021 & 30 Feb - 2 Mar 2022, Online
+  *CAMARADES*, Oct 2021, Mar 2022 & June 2022, Online
   <br>
   Delivered a 3-half-day workshop aiming to equip researchers with the skills required to conduct good quality systematic reviews and meta-analyses of preclinical animal data using the Systematic Review Facility (SyRF) tool.
 
@@ -143,8 +150,10 @@ I am passionate about open and reproducible research, and enjoy engaging the pub
 
 ## Responsibilities
 
-- **CREST Award Assessor, British Science Association**, Jan 2021 - present
-- **Supervisor, Nuffield Research Placements**, Jul - Aug 2021
+- **CREST Award Assessor, British Science Association**, 2021 - present
+- **Working Group Member, Edinburgh ReproducibiliTea**, 2020 - present
+- **Member, Diversity at Edinburgh Neuroscience (Diversity@EN)**, 2020 - present
+- **Supervisor, Nuffield Research Placements (two students)**, 2021
 
 ## Grants
 
