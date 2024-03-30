@@ -1,22 +1,31 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: Designing, conducting, and reporting reproducible experiments
+    authors: <strong>Wilson E</strong>*, Ramage F, Wever KE, et al. (* contributed equally)
+    conference: Journal of Endocrinology, 2023.
+    pdf: https://joe.bioscientifica.com/view/journals/joe/258/1/JOE-22-0330.xml
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: Searching for evidence in public health emergencies: a white paper of best practices
+    authors: Brody S, Loree S, ..., <strong>Wilson E</strong>, et al.
+    conference: JMLA, 2023.
+    pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10259619/
+
+  - title: Systematic online living evidence summaries: emerging tools to accelerate evidence synthesis
+    authors: Hair K, <strong>Wilson E</strong>, Wong C, et al.
+    conference: Clinical Science, 2023.
+    pdf: https://portlandpress.com/clinsci/article/137/10/773/233083
+
+  - title: Screening for in vitro systematic reviews: a comparison of screening methods and training of a machine learning classifier
+    authors: <strong>Wilson E</strong>, Cruz F, Maclean D, et al.
+    conference: Clinical Science, 2023.
+    pdf: https://portlandpress.com/clinsci/article/137/2/181/232436/Screening-for-in-vitro-systematic-reviews-a
+
+  - title: Meta-analysis on reporting practices as a source of heterogeneity in in vitro cancer research
+    authors: Sander T, Ghanawi J, <strong>Wilson E</strong>,et al.
+    conference: BMJ Open Science, 2022.
+    pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9171230/
+
+  - title: Building a systematic online living evidence summary of COVID-19 research
+    authors: Hair K, Sena ES, <strong>Wilson E</strong>, et al.
+    conference: JEAHIL, 2021.
+    pdf: http://ojs.eahil.eu/ojs/index.php/JEAHIL/article/view/465/421
