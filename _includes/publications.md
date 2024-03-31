@@ -7,13 +7,16 @@
 
 <li>
   <div class="col-sm-9" style="position: relative;padding-right: 50px;padding-left: 0px;">
-      <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
+      <div class="title"><a href="{{ link.doi }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
-      <div class="periodical"><em>{{ link.conference }}</em>
+      <div class="periodical"><em>{{ link.journal }}</em>
       </div>
     <div class="links">
       {% if link.pdf %} 
       <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      {% endif %}
+      {% if link.data %} 
+      <a href="{{ link.data }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Data</a>
       {% endif %}
       {% if link.code %} 
       <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
