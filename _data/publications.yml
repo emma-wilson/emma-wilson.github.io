@@ -1,43 +1,51 @@
 main:
 
-  - title: "Genetically-modified animals as models of neurodevelopmemtal conditions: a review of systematic review reporting quality"
+  - title: "Genetically-modified animals as models of neurodevelopmental conditions: a review of systematic review reporting quality"
     authors: <strong>Wilson E</strong>, Currie G, Macleod MR, Kind P, Sena ES.
-    conference: MetaArXiv, 2024.
+    journal: MetaArXiv, 2024.
+    doi: https://osf.io/preprints/metaarxiv/s5xd4
     pdf: https://osf.io/preprints/metaarxiv/s5xd4
     notes: Stage 2 Registered Report
 
   - title: "A systematic online living evidence summary of experimental Alzheimer's research"
     authors: Hair K, <strong>Wilson E</strong>, Maksym O, Macleod MR, Sena ES.
-    conference: MetaArXiv, 2023.
+    journal: MetaArXiv, 2023.
+    doi: https://osf.io/preprints/metaarxiv/s5gf9
     pdf: https://osf.io/preprints/metaarxiv/s5gf9
     notes: Preprint
 
   - title: "Designing, conducting, and reporting reproducible animal experiments"
     authors: <strong>Wilson E</strong>*, Ramage FJ*, Wever KE, Sena ES, Macleod MR, Currie GL. (* contributed equally)
-    conference: Journal of Endocrinology, 2023.
+    journal: Journal of Endocrinology, 2023.
+    doi: https://joe.bioscientifica.com/view/journals/joe/258/1/JOE-22-0330.xml
     pdf: https://joe.bioscientifica.com/view/journals/joe/258/1/JOE-22-0330.xml
 
   - title: "Searching for evidence in public health emergencies: a white paper of best practices"
     authors: Brody S, Loree S, Sampson M, Mensinkai S, Coffman J, Mueller MH, Askin N, Hamill C, <strong>Wilson E</strong>, McAteer MB, Staines H.
-    conference: JMLA, 2023.
+    journal: JMLA, 2023.
+    doi: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10259619/
     pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10259619/
 
   - title: "Systematic online living evidence summaries: emerging tools to accelerate evidence synthesis"
     authors: Hair K, <strong>Wilson E</strong>, Wong C, Tsang A, Macleod MR, Bannach-Brown A.
-    conference: Clinical Science, 2023.
+    journal: Clinical Science, 2023.
+    doi: https://portlandpress.com/clinsci/article/137/10/773/233083
     pdf: https://portlandpress.com/clinsci/article/137/10/773/233083
 
   - title: "Screening for in vitro systematic reviews: a comparison of screening methods and training of a machine learning classifier"
     authors: <strong>Wilson E</strong>, Cruz F, Maclean D, Ghanawi J, McCann SK, Brennan PM, Liao J, Sena ES, Macleod MR.
-    conference: Clinical Science, 2023.
+    journal: Clinical Science, 2023.
+    doi: https://portlandpress.com/clinsci/article/137/2/181/232436/Screening-for-in-vitro-systematic-reviews-a
     pdf: https://portlandpress.com/clinsci/article/137/2/181/232436/Screening-for-in-vitro-systematic-reviews-a
 
   - title: "Meta-analysis on reporting practices as a source of heterogeneity in in vitro cancer research"
     authors: Sander T, Ghanawi J, <strong>Wilson E</strong>, Muhammad S, Macleod MR, Kahlert UD.
-    conference: BMJ Open Science, 2022.
+    journal: BMJ Open Science, 2022.
+    doi: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9171230/
     pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9171230/
 
   - title: "Building a systematic online living evidence summary of COVID-19 research"
     authors: Hair K, Sena ES, <strong>Wilson E</strong>, Currie G, Macleod M, Bahor Z, Sena C, Ayder C, Liao J, Tanriver-Ayder E, Ghanawi J, Tsang A, Collins A, Carstairs A, Antar S, Drax K, Neves K, Ottavi T, Chow YY, Henry D, Selli C, Fofana M, Rudnicki M, Gabriel B, Pearl EJ, Kapoor SS, Baginskaite J, Shevade S, Chung A, Przybylska MA, Henshall DE, Hajdu KL, McCann S, Sutherland C, Alves TL, Blacow R, Hood RJ, Soliman N, Harris A, Swift SL, Rackoll T, Percie du Sert N, Waldron F, Moulson R, Low JW, Rannikmae K, Miller K, Bannach-Brown A, Kerr F, Hebert HL, Gergory S, Shaw IW, Christides A, Alawady M, Hillary R, Clark A, Jayasuriya N, Sives S, Nazzal A, Sewell M, Bertani R, Fielding H, Drury B.
-    conference: JEAHIL, 2021.
+    journal: JEAHIL, 2021.
+    doi: http://ojs.eahil.eu/ojs/index.php/JEAHIL/article/view/465/421
     pdf: http://ojs.eahil.eu/ojs/index.php/JEAHIL/article/view/465/421
