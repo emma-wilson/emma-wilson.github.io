@@ -19,33 +19,39 @@ main:
     journal: Journal of Endocrinology, 2023.
     doi: https://joe.bioscientifica.com/view/journals/joe/258/1/JOE-22-0330.xml
     pdf: https://joe.bioscientifica.com/view/journals/joe/258/1/JOE-22-0330.xml
+    altmetric: 10.1530/JOE-22-0330
 
   - title: "Searching for evidence in public health emergencies: a white paper of best practices"
     authors: Brody S, Loree S, Sampson M, Mensinkai S, Coffman J, Mueller MH, Askin N, Hamill C, <strong>Wilson E</strong>, McAteer MB, Staines H.
     journal: JMLA, 2023.
     doi: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10259619/
     pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10259619/
+    altmetric: 10.5195/jmla.2023.1530
 
   - title: "Systematic online living evidence summaries: emerging tools to accelerate evidence synthesis"
     authors: Hair K, <strong>Wilson E</strong>, Wong C, Tsang A, Macleod MR, Bannach-Brown A.
     journal: Clinical Science, 2023.
     doi: https://portlandpress.com/clinsci/article/137/10/773/233083
     pdf: https://portlandpress.com/clinsci/article/137/10/773/233083
+    altmetric: 10.1042/CS20220494
 
   - title: "Screening for in vitro systematic reviews: a comparison of screening methods and training of a machine learning classifier"
     authors: <strong>Wilson E</strong>, Cruz F, Maclean D, Ghanawi J, McCann SK, Brennan PM, Liao J, Sena ES, Macleod MR.
     journal: Clinical Science, 2023.
     doi: https://portlandpress.com/clinsci/article/137/2/181/232436/Screening-for-in-vitro-systematic-reviews-a
     pdf: https://portlandpress.com/clinsci/article/137/2/181/232436/Screening-for-in-vitro-systematic-reviews-a
+    altmetric: 10.1042/CS20220594
 
   - title: "Meta-analysis on reporting practices as a source of heterogeneity in in vitro cancer research"
     authors: Sander T, Ghanawi J, <strong>Wilson E</strong>, Muhammad S, Macleod MR, Kahlert UD.
     journal: BMJ Open Science, 2022.
     doi: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9171230/
     pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9171230/
+    altmetric: 10.1136/bmjos-2021-100272
 
   - title: "Building a systematic online living evidence summary of COVID-19 research"
     authors: Hair K, Sena ES, <strong>Wilson E</strong>, Currie G, Macleod M, Bahor Z, Sena C, Ayder C, Liao J, Tanriver-Ayder E, Ghanawi J, Tsang A, Collins A, Carstairs A, Antar S, Drax K, Neves K, Ottavi T, Chow YY, Henry D, Selli C, Fofana M, Rudnicki M, Gabriel B, Pearl EJ, Kapoor SS, Baginskaite J, Shevade S, Chung A, Przybylska MA, Henshall DE, Hajdu KL, McCann S, Sutherland C, Alves TL, Blacow R, Hood RJ, Soliman N, Harris A, Swift SL, Rackoll T, Percie du Sert N, Waldron F, Moulson R, Low JW, Rannikmae K, Miller K, Bannach-Brown A, Kerr F, Hebert HL, Gergory S, Shaw IW, Christides A, Alawady M, Hillary R, Clark A, Jayasuriya N, Sives S, Nazzal A, Sewell M, Bertani R, Fielding H, Drury B.
     journal: JEAHIL, 2021.
     doi: http://ojs.eahil.eu/ojs/index.php/JEAHIL/article/view/465/421
     pdf: http://ojs.eahil.eu/ojs/index.php/JEAHIL/article/view/465/421
+    altmetric: 10.32384/jeahil17465
