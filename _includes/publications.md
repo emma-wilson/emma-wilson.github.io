@@ -9,8 +9,7 @@
 <li>
   <div class="col-sm-9" style="position: relative;padding-right: 50px;padding-left: 0px;">
       <div class="title"><a href="{{ link.doi }}">{{ link.title }}</a></div>
-      <div class="author">{{ link.authors }}</div>
-      <div class="periodical"><em>{{ link.journal }}</em>
+      <div class="author">{{ link.authors }} <em>{{ link.journal }}</em>
       </div>
     <div class="links">
       {% if link.pdf %} 
