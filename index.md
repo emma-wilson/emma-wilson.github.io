@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## About Me
+## About me
 
 I'm a final year PhD student working with the CAMARADES research group at the University of Edinburgh. I'm supervised by Prof Emily Sena and Prof Peter Kind, and my PhD is funded by the Simons Initiative for the Developing Brain (SIDB). 
 
