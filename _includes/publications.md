@@ -11,9 +11,9 @@
       <div>
         <p><span class="title"><a href="{{ link.doi }}">{{ link.title }}</a></span></p>
         <br>
-        <p></p><span class="author">{{ link.authors }}</span></p>
+        <p><span class="author">{{ link.authors }}</span></p>
         <br>
-        <p></p><span class="periodical"><em>{{ link.journal }}</em></span></p>
+        <p><span class="periodical"><em>{{ link.journal }}</em></span></p>
       </div>
     <div class="links">
       {% if link.pdf %} 
