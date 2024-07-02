@@ -17,7 +17,6 @@ main:
     journal: Journal of Endocrinology, 2023.
     doi: https://doi.org/10.1530/JOE-22-0330
     pdf: assets/files/2023_Wilson_Ramage.pdf
-    altmetric: 10.1530/JOE-22-0330
 
   - title: "Searching for evidence in public health emergencies: a white paper of best practices"
     authors: Brody S, Loree S, ... , <strong>Wilson E</strong>, et al.
@@ -25,14 +24,12 @@ main:
     doi: https://doi.org/10.5195%2Fjmla.2023.1530
     pdf: assets/files/2023_Brody.pdf
     data: https://osf.io/dujqe/
-    altmetric: 10.5195/jmla.2023.1530
 
   - title: "Systematic online living evidence summaries: emerging tools to accelerate evidence synthesis"
     authors: Hair K, <strong>Wilson E</strong>, Wong C, et al.
     journal: Clinical Science, 2023.
     doi: https://doi.org/10.1042/CS20220494
     pdf: assets/files/2023_Hair.pdf
-    altmetric: 10.1042/CS20220494
 
   - title: "Screening for in vitro systematic reviews: a comparison of screening methods and training of a machine learning classifier"
     authors: <strong>Wilson E</strong>, Cruz F, Maclean D, et al.
@@ -40,7 +37,6 @@ main:
     doi: https://doi.org/10.1042/CS20220594
     pdf: assets/files/2023_Wilson.pdf
     data: https://github.com/emma-wilson/in-vitro-screening
-    altmetric: 10.1042/CS20220594
 
   - title: "Meta-analysis on reporting practices as a source of heterogeneity in in vitro cancer research"
     authors: Sander T, Ghanawi J, <strong>Wilson E</strong>, et al.
@@ -49,11 +45,9 @@ main:
     pdf: assets/files/2022_Sander.pdf
     data: https://osf.io/knhx8/
     code: https://github.com/TimoSander/Reporting-practices-as-a-source-of-heterogeneity-in-in-vitro-cancer-research
-    altmetric: 10.1136/bmjos-2021-100272
 
   - title: "Building a systematic online living evidence summary of COVID-19 research"
     authors: Hair K, Sena ES, <strong>Wilson E</strong>, et al.
     journal: JEAHIL, 2021.
     doi: https://doi.org/10.32384/jeahil17465
     pdf: assets/files/2021_Hair.pdf
-    altmetric: 10.32384/jeahil17465
