@@ -10,9 +10,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 50px;padding-left: 0px;">
       <div>
         <p><span class="title"><a href="{{ link.doi }}">{{ link.title }}</a></span></p>
-        <br>
         <p><span class="author">{{ link.authors }}</span></p>
-        <br>
         <p><span class="periodical"><em>{{ link.journal }}</em></span></p>
       </div>
     <div class="links">
