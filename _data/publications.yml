@@ -5,6 +5,7 @@ main:
     journal: Brain and Neuroscience Advances, 2024.
     doi: https://doi.org/10.1177/23982128241287279
     pdf: assets/files/2024_Wilson.pdf
+    code: https://github.com/emma-wilson/animal-sr-reporting-quality
 
   - title: "A systematic online living evidence summary of experimental Alzheimer's research"
     authors: Hair K, <strong>Wilson E</strong>, Maksym O, Macleod MR, Sena ES.
