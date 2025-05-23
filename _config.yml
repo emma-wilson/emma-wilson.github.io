@@ -1,13 +1,13 @@
 # Basic Information 
 title: Emma Wilson
-position: PhD Student
+position: Postdoctoral Research Fellow
 affiliation: The University of Edinburgh
-topic: Evidence synthesis; reproducibility; open research
-pronouns: she / her
+topic: Evidence synthesis; information retrieval and metadata; open research and infrastructure
+pronouns: she / they
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: university research phd
+keywords: university research postdoctoral
 description: Personal webpage for Emma Wilson.
 canonical: https://emma-wilson.github.io/
 
@@ -15,8 +15,6 @@ canonical: https://emma-wilson.github.io/
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=fk9y3nwAAAAJ&hl=en
 github_link: https://github.com/emma-wilson
-linkedin: https://uk.linkedin.com/in/emma-wilson-68646011b?trk=public_post_follow-view-profile
-twitter: https://twitter.com/EWilsonSci
 osf: https://osf.io/kj4uz/
 orcid: https://orcid.org/0000-0002-8100-7508
 
@@ -36,7 +34,7 @@ auto_dark_mode: true
 
 # Font
 # You can use this option to choose between Serif or Sans Serif fonts.
-font: "Sans Serif" # or "Sans Serif"
+font: "Sans Serif" # or "Serif"
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
