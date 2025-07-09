@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Selected publications</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 <div class="publications">
