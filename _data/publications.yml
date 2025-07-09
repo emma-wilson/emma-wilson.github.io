@@ -1,5 +1,12 @@
 main:
 
+  - title: "Better statistical reporting does not lead to statistical rigour: lessons from two decades of pseudoreplication in mouse-model studies of neurological disorders"
+    authors: Eleftheriou C, Giachetti S, Hickson R, Kamnioti-Dumont L, Templaar R, Aaltonen A, Tsoukala E, Kim K, Fryer-Petridis L, Henley C, Erdem C, <strong>Wilson E</strong>, et al.
+    journal: Molecular Autism, 2025.
+    doi: https://doi.org/10.1186/s13229-025-00663-3
+    pdf: assets/files/2025_Eleftheriou.pdf
+    code: https://doi.org/10.5281/zenodo.13882178
+
   - title: "Good Enough Practices in Scientific Computing: A Learning Module for Researchers"
     authors: Zieliński T, Romanowski A, <strong>Wilson E</strong>, Anderson F, Gountouna E, Mimault M, Meynert A, Wallace EJ.
     journal: Journal of Open Source Education, 2025.
@@ -7,11 +14,32 @@ main:
     pdf: assets/files/2025_Zielinski.pdf
     data: https://github.com/carpentries-lab/good-enough-practices
 
+  - title: "Do Influential Articles on the Genetics of Autism Show Evidence of Engagement With the Autistic Community?"
+    authors: Kaljusto HK, <strong>Wilson E</strong>, Fletcher‐Watson S.
+    journal: American Journal of Medical Genetics Part B: Neuropsychiatric Genetics
+    doi: https://doi.org/10.1002/ajmg.b.33030
+    pdf: assets/files/2025_Kaljusto.pdf
+    data: https://onlinelibrary.wiley.com/doi/full/10.1002/ajmg.b.33030#support-information-section
+    code: https://github.com/emma-wilson/kaljusto-2025-text-mining
+
   - title: "Curricula May Not Apply:“Abnormal” Exceptions Speak Back to the Curriculum"
     authors: Rudkin G, Warrington KL, <strong>Wilson E</strong>, Iley B, Zisk AH.
     journal: Teaching of Psychology, 2025.
     doi: https://doi.org/10.1177/00986283251328986
     pdf: assets/files/2025_Rudkin.pdf
+
+  - title: "The Rise of Open Data Practices Among Bioscientists at the University of Edinburgh"
+    authors: Deeb H, Creasey S, Lucini de Ugarte D, Strevens G, Usman T, Wong HY, Kutzer MAM, <strong>Wilson E</strong>, Zieliński T, Millar AJ.
+    journal: BioRxiv
+    doi: https://doi.org/10.1101/2024.02.18.580901
+    pdf: assets/files/2025_Deeb.pdf
+
+  - title: "A Systematic Online Living Evidence Summary of Experimental Alzheimer’s Disease Research"
+    authors: Hair K, <strong>Wilson E</strong>, Maksym O, Macleod M, Sena ES.
+    journal: Journal of Neuroscience Methods
+    doi: https://doi.org/10.1016/j.jneumeth.2024.110209
+    pdf: assets/files/2024_Hair.pdf
+    data: https://osf.io/ez5pt/
 
   - title: "Genetically-modified animals as models of neurodevelopmental conditions: a review of systematic review reporting quality"
     authors: <strong>Wilson E</strong>, Currie G, Macleod MR, Kind P, Sena ES.
@@ -20,6 +48,13 @@ main:
     pdf: assets/files/2024_Wilson.pdf
     code: https://github.com/emma-wilson/animal-sr-reporting-quality
 
+  - title: "A machine learning–assisted systematic review of preclinical glioma modeling: Is practice changing with the times?"
+    authors: Hirst TC, <strong>Wilson E</strong>, Browne D, Sena ES.
+    journal: Neuro-Oncology Advances
+    doi: https://doi.org/10.1093/noajnl/vdae193
+    pdf: assets/files/2024_Hirst.pdf
+    data: https://academic.oup.com/noa/article/6/1/vdae193/7933891#supplementary-data
+
   - title: "Systematic online living evidence summaries: emerging tools to accelerate evidence synthesis"
     authors: Hair K, <strong>Wilson E</strong>, Wong C, Tsang A, Macleod MR, Bannach-Brown A.
     journal: Clinical Science, 2023.
@@ -27,7 +62,7 @@ main:
     pdf: assets/files/2023_Hair.pdf
 
   - title: "Searching for evidence in public health emergencies: a white paper of best practices"
-    authors: Brody S, Loree S, Sampson M, Mensinkai S, Coffman J, Mueller MH Askin N, Hamill C, <strong>Wilson E</strong>, et al.
+    authors: Brody S, Loree S, Sampson M, Mensinkai S, Coffman J, Mueller MH, Askin N, Hamill C, <strong>Wilson E</strong>, et al.
     journal: JMLA, 2023.
     doi: https://doi.org/10.5195%2Fjmla.2023.1530
     pdf: assets/files/2023_Brody.pdf
@@ -45,3 +80,14 @@ main:
     doi: https://doi.org/10.1042/CS20220594
     pdf: assets/files/2023_Wilson.pdf
     data: https://github.com/emma-wilson/in-vitro-screening
+
+  - title: "Meta-analysis on reporting practices as a source of heterogeneity in in vitro cancer research"
+    authors: Sander T, Ghanawi J, <strong>Wilson E</strong>, Muhammad S, Macleod M, Kahlert UD.
+    journal: BMJ Open Science
+    doi: https://doi.org/10.1136/bmjos-2021-100272
+    data: https://github.com/TimoSander/Reporting-practices-as-a-source-of-heterogeneity-in-in-vitro-cancer-research
+
+  - title: "Building a Systematic Online Living Evidence Summary of COVID-19 Research"
+    authors: Hair K, Sena ES, <strong>Wilson E</strong>, Currie G, Macleod M, Bahor Z, Sena C, Ayder C, Liao J, et al.
+    journal: Journal of EAHIL
+    doi: https://doi.org/10.32384/jeahil17465
