@@ -85,9 +85,11 @@ main:
     authors: Sander T, Ghanawi J, <strong>Wilson E</strong>, Muhammad S, Macleod M, Kahlert UD.
     journal: BMJ Open Science
     doi: https://doi.org/10.1136/bmjos-2021-100272
+    pdf: assets/files/2021_Sander.pdf
     data: https://github.com/TimoSander/Reporting-practices-as-a-source-of-heterogeneity-in-in-vitro-cancer-research
 
   - title: "Building a Systematic Online Living Evidence Summary of COVID-19 Research"
     authors: Hair K, Sena ES, <strong>Wilson E</strong>, Currie G, Macleod M, Bahor Z, Sena C, Ayder C, Liao J, et al.
     journal: Journal of EAHIL
     doi: https://doi.org/10.32384/jeahil17465
+    pdf: assets/files/2021_Hair.pdf
