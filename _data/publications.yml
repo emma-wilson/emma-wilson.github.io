@@ -16,7 +16,7 @@ main:
 
   - title: "Do Influential Articles on the Genetics of Autism Show Evidence of Engagement With the Autistic Community?"
     authors: Kaljusto HK, <strong>Wilson E</strong>, Fletcher‐Watson S.
-    journal: "American Journal of Medical Genetics Part B: Neuropsychiatric Genetics"
+    journal: "American Journal of Medical Genetics Part B: Neuropsychiatric Genetics, 2025."
     doi: https://doi.org/10.1002/ajmg.b.33030
     pdf: assets/files/2025_Kaljusto.pdf
     data: https://onlinelibrary.wiley.com/doi/full/10.1002/ajmg.b.33030#support-information-section
@@ -30,13 +30,13 @@ main:
 
   - title: "The Rise of Open Data Practices Among Bioscientists at the University of Edinburgh"
     authors: Deeb H, Creasey S, Lucini de Ugarte D, Strevens G, Usman T, Wong HY, Kutzer MAM, <strong>Wilson E</strong>, Zieliński T, Millar AJ.
-    journal: BioRxiv
+    journal: BioRxiv, 2025.
     doi: https://doi.org/10.1101/2024.02.18.580901
     pdf: assets/files/2025_Deeb.pdf
 
   - title: "A Systematic Online Living Evidence Summary of Experimental Alzheimer’s Disease Research"
     authors: Hair K, <strong>Wilson E</strong>, Maksym O, Macleod M, Sena ES.
-    journal: Journal of Neuroscience Methods
+    journal: Journal of Neuroscience Methods, 2024.
     doi: https://doi.org/10.1016/j.jneumeth.2024.110209
     pdf: assets/files/2024_Hair.pdf
     data: https://osf.io/ez5pt/
@@ -50,7 +50,7 @@ main:
 
   - title: "A machine learning–assisted systematic review of preclinical glioma modeling: Is practice changing with the times?"
     authors: Hirst TC, <strong>Wilson E</strong>, Browne D, Sena ES.
-    journal: Neuro-Oncology Advances
+    journal: Neuro-Oncology Advances, 2024.
     doi: https://doi.org/10.1093/noajnl/vdae193
     pdf: assets/files/2024_Hirst.pdf
     data: https://academic.oup.com/noa/article/6/1/vdae193/7933891#supplementary-data
@@ -83,13 +83,13 @@ main:
 
   - title: "Meta-analysis on reporting practices as a source of heterogeneity in in vitro cancer research"
     authors: Sander T, Ghanawi J, <strong>Wilson E</strong>, Muhammad S, Macleod M, Kahlert UD.
-    journal: BMJ Open Science
+    journal: BMJ Open Science, 2022.
     doi: https://doi.org/10.1136/bmjos-2021-100272
-    pdf: assets/files/2021_Sander.pdf
+    pdf: assets/files/2022_Sander.pdf
     data: https://github.com/TimoSander/Reporting-practices-as-a-source-of-heterogeneity-in-in-vitro-cancer-research
 
   - title: "Building a Systematic Online Living Evidence Summary of COVID-19 Research"
     authors: Hair K, Sena ES, <strong>Wilson E</strong>, Currie G, Macleod M, Bahor Z, Sena C, Ayder C, Liao J, et al.
-    journal: Journal of EAHIL
+    journal: Journal of EAHIL, 2021.
     doi: https://doi.org/10.32384/jeahil17465
     pdf: assets/files/2021_Hair.pdf
