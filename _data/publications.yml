@@ -1,5 +1,5 @@
 - title: "Better statistical reporting does not lead to statistical rigour: lessons from two decades of pseudoreplication in mouse-model studies of neurological disorders"
-  authors: Eleftheriou C, Giachetti S, Hickson R, Kamnioti-Dumont L, Templaar R, Aaltonen A, Tsoukala E, Kim K, Fryer-Petridis L, Henley C, Erdem C, <strong>Wilson E</strong>, et al.
+  authors: Eleftheriou C, Giachetti S, Hickson R, Kamnioti-Dumont L, Templaar R, Aaltonen A, Tsoukala E, Kim K, Fryer-Petridis L, Henley C, Erdem C, <strong>Wilson E</strong>, et al
   year: 2025
   source: Molecular Autism
   doi: https://doi.org/10.1186/s13229-025-00663-3
@@ -7,15 +7,16 @@
   code: https://doi.org/10.5281/zenodo.13882178
 
 - title: "Good Enough Practices in Scientific Computing: A Learning Module for Researchers"
-  authors: Zieliński T, Romanowski A, <strong>Wilson E</strong>, Anderson F, Gountouna E, Mimault M, Meynert A, Wallace EJ.
-  yea: 2025
+  authors: Zieliński T, Romanowski A, <strong>Wilson E</strong>, Anderson F, Gountouna E, Mimault M, Meynert A, Wallace EJ
+  year: 2025
   source: Journal of Open Source Education
   doi: https://doi.org/10.21105/jose.00279
   pdf: https://www.pure.ed.ac.uk/ws/portalfiles/portal/530649719/10.21105.jose.00279.pdf
-  data: https://github.com/carpentries-lab/good-enough-practices
+  website: https://carpentries-lab.github.io/good-enough-practices/
+  code: https://github.com/carpentries-lab/good-enough-practices
 
 - title: "Do Influential Articles on the Genetics of Autism Show Evidence of Engagement With the Autistic Community?"
-  authors: Kaljusto HK, <strong>Wilson E</strong>, Fletcher‐Watson S.
+  authors: Kaljusto HK, <strong>Wilson E</strong>, Fletcher‐Watson S
   year: 2025
   source: "American Journal of Medical Genetics Part B: Neuropsychiatric Genetics"
   doi: https://doi.org/10.1002/ajmg.b.33030
@@ -24,14 +25,14 @@
   code: https://github.com/emma-wilson/kaljusto-2025-text-mining
 
 - title: "Curricula May Not Apply:“Abnormal” Exceptions Speak Back to the Curriculum"
-  authors: Rudkin G, Warrington KL, <strong>Wilson E</strong>, Iley B, Zisk AH.
+  authors: Rudkin G, Warrington KL, <strong>Wilson E</strong>, Iley B, Zisk AH
   year: 2025
   source: Teaching of Psychology
   doi: https://doi.org/10.1177/00986283251328986
   pdf: https://pureadmin.qub.ac.uk/ws/portalfiles/portal/637769296/rudkin-et-al-2025-curricula-may-not-apply-abnormal-exceptions-speak-back-to-the-curriculum.pdf
 
 - title: "The Rise of Open Data Practices Among Bioscientists at the University of Edinburgh"
-  authors: Deeb H, Creasey S, Lucini de Ugarte D, Strevens G, Usman T, Wong HY, Kutzer MAM, <strong>Wilson E</strong>, Zieliński T, Millar AJ.
+  authors: Deeb H, Creasey S, Lucini de Ugarte D, Strevens G, Usman T, Wong HY, Kutzer MAM, <strong>Wilson E</strong>, Zieliński T, Millar AJ
   year: 2025
   source: PLOS One
   doi: https://doi.org/10.1371/journal.pone.0328065
@@ -39,7 +40,7 @@
   data: https://doi.org/10.5281/zenodo.14169649
 
 - title: Open Research at Edinburgh
-  authors: <strong>Wilson E</strong>.
+  authors: <strong>Wilson E</strong>
   year: 2024
   source: Edinburgh Open Research
   type: Report
@@ -47,15 +48,15 @@
   pdf: https://journals.ed.ac.uk/eor/article/view/10130/12889
 
 - title: "A Systematic Online Living Evidence Summary of Experimental Alzheimer’s Disease Research"
-  authors: Hair K, <strong>Wilson E</strong>, Maksym O, Macleod M, Sena ES.
+  authors: Hair K, <strong>Wilson E</strong>, Maksym O, Macleod M, Sena ES
   year: 2024
   source: Journal of Neuroscience Methods
   doi: https://doi.org/10.1016/j.jneumeth.2024.110209
-  pdf: assets/files/2024_Hair.pdf
+  pdf: https://www.pure.ed.ac.uk/ws/portalfiles/portal/351417360/cs_2022_0494.pdf
   data: https://osf.io/ez5pt/
 
 - title: "Genetically-modified animals as models of neurodevelopmental conditions: a review of systematic review reporting quality"
-  authors: <strong>Wilson E</strong>, Currie G, Macleod MR, Kind P, Sena ES.
+  authors: <strong>Wilson E</strong>, Currie G, Macleod MR, Kind P, Sena ES
   year: 2024
   source: Brain and Neuroscience Advances
   doi: https://doi.org/10.1177/23982128241287279
@@ -63,7 +64,7 @@
   code: https://github.com/emma-wilson/animal-sr-reporting-quality
 
 - title: "A machine learning–assisted systematic review of preclinical glioma modeling: Is practice changing with the times?"
-  authors: Hirst TC, <strong>Wilson E</strong>, Browne D, Sena ES.
+  authors: Hirst TC, <strong>Wilson E</strong>, Browne D, Sena ES
   year: 2024
   source: Neuro-Oncology Advances
   doi: https://doi.org/10.1093/noajnl/vdae193
@@ -71,14 +72,14 @@
   data: https://academic.oup.com/noa/article/6/1/vdae193/7933891#supplementary-data
 
 - title: "Systematic online living evidence summaries: emerging tools to accelerate evidence synthesis"
-  authors: Hair K, <strong>Wilson E</strong>, Wong C, Tsang A, Macleod MR, Bannach-Brown A.
+  authors: Hair K, <strong>Wilson E</strong>, Wong C, Tsang A, Macleod MR, Bannach-Brown A
   year: 2023
   source: Clinical Science
   doi: https://doi.org/10.1042/CS20220494
   html: https://pmc.ncbi.nlm.nih.gov/articles/PMC10220429/
 
 - title: "Searching for evidence in public health emergencies: a white paper of best practices"
-  authors: Brody S, Loree S, Sampson M, Mensinkai S, Coffman J, Mueller MH, Askin N, Hamill C, <strong>Wilson E</strong>, et al.
+  authors: Brody S, Loree S, Sampson M, Mensinkai S, Coffman J, Mueller MH, Askin N, Hamill C, <strong>Wilson E</strong>, et al
   year: 2023
   source: JMLA
   doi: https://doi.org/10.5195%2Fjmla.2023.1530
@@ -86,14 +87,14 @@
   data: https://osf.io/dujqe/
 
 - title: "Designing, conducting, and reporting reproducible animal experiments"
-  authors: <strong>Wilson E</strong>*, Ramage FJ*, Wever KE, Sena ES, Macleod MR, Currie GL. (* contributed equally)
+  authors: <strong>Wilson E</strong>*, Ramage FJ*, Wever KE, Sena ES, Macleod MR, Currie GL (* contributed equally)
   year: 2023
   source: Journal of Endocrinology
   doi: https://doi.org/10.1530/JOE-22-0330
   pdf: https://www.pure.ed.ac.uk/ws/portalfiles/portal/344255011/1479_6805_joe_22_0330.pdf
 
 - title: "Screening for in vitro systematic reviews: a comparison of screening methods and training of a machine learning classifier"
-  authors: <strong>Wilson E</strong>, Cruz F, Maclean D, Ghanawi J, McCann SK, Brennan PM, Liao J, Sena ES, Macleod MR.
+  authors: <strong>Wilson E</strong>, Cruz F, Maclean D, Ghanawi J, McCann SK, Brennan PM, Liao J, Sena ES, Macleod MR
   year: 2023
   source: Clinical Science, 2023.
   doi: https://doi.org/10.1042/CS20220594
@@ -101,7 +102,7 @@
   data: https://github.com/emma-wilson/in-vitro-screening
 
 - title: "Meta-analysis on reporting practices as a source of heterogeneity in in vitro cancer research"
-  authors: Sander T, Ghanawi J, <strong>Wilson E</strong>, Muhammad S, Macleod M, Kahlert UD.
+  authors: Sander T, Ghanawi J, <strong>Wilson E</strong>, Muhammad S, Macleod M, Kahlert UD
   year: 2022
   source: BMJ Open Science
   doi: https://doi.org/10.1136/bmjos-2021-100272
@@ -109,7 +110,7 @@
   data: https://github.com/TimoSander/Reporting-practices-as-a-source-of-heterogeneity-in-in-vitro-cancer-research
 
 - title: "Building a Systematic Online Living Evidence Summary of COVID-19 Research"
-  authors: Hair K, Sena ES, <strong>Wilson E</strong>, Currie G, Macleod M, Bahor Z, Sena C, Ayder C, Liao J, et al.
+  authors: Hair K, Sena ES, <strong>Wilson E</strong>, Currie G, Macleod M, Bahor Z, Sena C, Ayder C, Liao J, et al
   year: 2021
   source: Journal of EAHIL
   doi: https://doi.org/10.32384/jeahil17465
