@@ -1,0 +1,57 @@
+<h2 id="publications">Publications</h2>
+
+<div>
+    <ol class="publicationList">
+        {% for item in site.data.publications %}
+        <li>
+            <div class="pubText">
+                <p>
+                    <span class="pubAuthors">{{ item.authors }}. </span>
+                    <span class="pubYear">&#40;{{ item.year }}&#41;.</span>
+                    <span class="pubTitle"><a href="{{ item.doi }}">{{ item.title }}</a>. </span>
+                    <span class="pubSource">{{ item.source }}. </span>
+                    {% if item.type %}
+                        <span class="pubType">&#40;{{ item.type }}&#41;</span>
+                    {% endif %}
+                </p>
+            </div>
+            <div class="pubLinks">
+                {% if item.pdf %}
+                <a href ="{{ item.pdf }}" class=" btn" role="button" target="_blank">PDF</a>
+                {% endif %}
+                {% if item.epub %}
+                <a href ="{{ item.epub }}" class="btn" role="button" target="_blank">EPUB</a>
+                {% endif %}
+                {% if item.HTML %}
+                <a href ="{{ item.html }}" class="btn" role="button" target="_blank">HTML</a>
+                {% endif %}
+                {% if item.XML %}
+                <a href ="{{ item.xml }}" class="btn" role="button" target="_blank">XML</a>
+                {% endif %}
+                {% if item.website %}
+                <a href ="{{ item.website }}" class="btn" role="button" target="_blank">Website</a>
+                {% endif %}
+                {% if item.dara %}
+                <a href ="{{ item.data }}" class="btn" role="button" target="_blank">Data</a>
+                {% endif %}
+                {% if item.code %}
+                <a href ="{{ item.code }}" class="btn" role="button" target="_blank">Code</a>
+                {% endif %}
+                {% if item.materials %}
+                <a href ="{{ item.materials }}" class="btn" role="button" target="_blank">Materials</a>
+                {% endif %}
+                {% if item.slides %}
+                <a href ="{{ item.slides }}" class="btn" role="button" target="_blank">Slides</a>
+                {% endif %}
+                {% if item.poster %}
+                <a href ="{{ item.poster }}" class="btn" role="button" target="_blank">Poster</a>
+                {% endif %}
+                {% if item.recording %}
+                <a href ="{{ item.recording }}" class="btn" role="button" target="_blank">Recording</a>
+                {% endif %}
+            </div>
+        </li>
+        <br>
+        {% endfor %}
+    </ol>
+</div>

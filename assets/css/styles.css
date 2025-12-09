@@ -1,0 +1,190 @@
+:root {
+    --primary-color: firebrick;
+    --secondary-color: rebeccapurple;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: white;
+    padding: 50px;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.sidebar {
+    width: 25%;
+    background-color: white;
+    color: black;
+    padding: 10px;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.profile-photo {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 15px;
+}
+
+.site-title {
+    font-size: 24px;
+    font-weight: 100;
+    color: var(--primary-color);
+    margin-bottom: 10px;
+}
+
+.tagline {
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.social-icons {
+    margin-top: 50px;
+}
+
+.social-icon {
+    color: var(--primary-color);
+    margin: 0px 5px 0px 5px;
+}
+
+.social-icon:hover {
+    color: var(--secondary-color);
+}
+
+.main-content {
+    width: 75%;
+    background-color: white;
+    padding: 50px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: left;
+    background-color: white;
+    padding: 10px;
+    border-bottom: 2px solid grey;
+}
+
+.navbar a {
+    color: black;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.navbar a:hover {
+    background-color: lightgray;
+    color: var(--secondary-color);
+    border-radius: 5px;
+}
+
+.navbar .active {
+    color: var(--primary-color);
+}
+
+.content {
+    margin: 20px 10px 20px 10px;
+}
+
+.content h2 {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    color: var(--primary-color);
+    font-weight: 100;
+}
+
+.content h3 {
+    margin-top: 20px;
+    margin-bottom: 0px;
+    color: var(--primary-color);
+    font-weight: 100;
+}
+
+.content p {
+    margin-bottom: 15px;
+}
+
+.content a {
+    color: var(--primary-color);
+}
+
+.content a:hover {
+    color: var(--secondary-color);
+}
+
+.footer {
+    text-align: left;
+    background-color: white;
+    color: black;
+    font-size: smaller;
+    padding: 10px;
+    width: 100%;
+    bottom: 0;
+}
+
+.footer p {
+    margin-bottom: 10px;
+}
+
+.footer a {
+    color: var(--primary-color);
+}
+
+.footer a:hover {
+    color: var(--secondary-color);
+}
+
+.pubSource {
+    font-style: italic;
+}
+
+ol.publicationList, ol.resourceList, ul.blogList {
+    list-style: none;
+    padding: 0px;
+}
+
+.btn {
+    border: 2px solid black;
+    background-color: white;
+    padding: 5px 5px;
+    margin-right: 5px;
+    font-size: smaller;
+    text-decoration: none;
+}
+
+.btn:hover {
+    border: 2px solid var(--secondary-color);
+    background-color: lightgray;
+}
+
+@media (max-width: 768px) {
+    .container {
+        flex-direction: column;
+    }
+
+    .sidebar {
+        width: 100%;
+        text-align: center;
+    }
+
+    .main-content {
+        width: 100%;
+    }
+
+    .navbar {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .navbar a {
+        margin: 10px 0;
+    }
+}

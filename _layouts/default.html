@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css">
+    <title>{{ site.title }} | {{ page.title}}</title>
+</head>
+<body>
+     <div class="container">
+        <aside class="sidebar">
+            <img src="{{ site.baseurl }}/assets/images/profile.png" alt="Profile photo of Emma Wilson" class="profile-photo">
+            <h1 class="site-title">{{ site.title }}</h1>
+            <p class="tagline">{{ site.tagline }}</p>
+            <div class="social-icons">
+                <a href="{{ site.bluesky }}" aria-label="Bluesky" class="social-icon"><i class="fa-brands fa-bluesky fa-lg"></i></a>
+                <a href="{{ site.linkedin }}" aria-label="LinkedIn" class="social-icon"><i class="fa-brands fa-linkedin fa-lg"></i></a>
+                <a href="{{ site.orcid }}" aria-label="ORCID ID" class="social-icon"><i class="fa-brands fa-orcid fa-lg"></i></a>
+                <a href="{{ site.github }}" aria-label="GitHub" class="social-icon"><i class="fa-brands fa-github fa-lg"></i></a>
+            </div>
+        </aside>
+
+        <div class="main-content">
+            {% include navigation.html %}
+
+            <section class="content">
+                {{ content }}
+            </section>
+
+            <footer class="footer">
+                <p>&copy; 2025 {{ site.title }}. All rights reserved. Unless noted otherwise, all content is copyrighted.</p>
+            </footer>
+        </div>
+    </div>
+</body>
+</html>

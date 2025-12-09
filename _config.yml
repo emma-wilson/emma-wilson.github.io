@@ -1,0 +1,17 @@
+baseurl: ""
+url: "https://emma-wilson.github.io"
+
+title: Emma Wilson
+tagline: Researcher
+profileAltText: Profile photo of Emma Wilson
+
+bluesky: https://bsky.app/profile/emmawilson
+linkedin: https://uk.linkedin.com/in/emma-wilson-68646011b
+orcid: https://orcid.org/0000-0002-8100-7508
+github: https://github.com/emma-wilson
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md

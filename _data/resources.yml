@@ -1,0 +1,11 @@
+- title: "Minimal-blog: a personal academic website template"
+  description: Free to use Jekyll-based website template that can be deployed automaticlly using GitHub Pages.
+  button1Text: Demo
+  button1Link: "https://emma-wilson.github.io/minimal-blog/"
+  button2Text: Code
+  button2Link: "https://github.com/emma-wilson/minimal-blog"
+
+- title: Open research in the Classroom
+  description: Free to use animations and slide deck for teaching introductory open research concepts to high-school pupils an undergraduate students.
+  button1Text: Website
+  button1Link: https://blogs.ed.ac.uk/or-classroom/

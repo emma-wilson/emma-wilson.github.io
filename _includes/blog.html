@@ -1,0 +1,9 @@
+<ul class="blogList">
+  {% for post in site.posts %}
+    <li>
+      <h2><a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }}</a></h2>
+      <p><i>{{ post.author }} on {{ post.date | date: "%-d %B %Y"}}</i></p>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>

@@ -1,0 +1,25 @@
+<h2>Resources</h2>
+
+<div>
+    <ol class="resourceList">
+        {% for item in site.data.resources %}
+        <li>
+            <div class="resourceText">
+                <h3>{{ item.title }}</h3>
+                <p>{{ item.description }}</p>
+            </div>
+            <div class="resourceLinks">
+                {% if item.button1Text and item.button1Link %}
+                <a href ="{{ item.button1Link }}" class=" btn" role="button" target="_blank">{{ item.button1Text }}</a>
+                {% endif %}
+                {% if item.button2Text and item.button2Link %}
+                <a href ="{{ item.button2Link }}" class=" btn" role="button" target="_blank">{{ item.button2Text }}</a>
+                {% endif %}
+                {% if item.button3Text and item.button3Link %}
+                <a href ="{{ item.button3Link }}" class=" btn" role="button" target="_blank">{{ item.button3Text }}</a>
+                {% endif %}
+            </div>
+        </li>
+        {% endfor %}
+    </ol>
+</div>
