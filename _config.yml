@@ -10,6 +10,9 @@ linkedin: https://uk.linkedin.com/in/emma-wilson-68646011b
 orcid: https://orcid.org/0000-0002-8100-7508
 github: https://github.com/emma-wilson
 
+plugins:
+  - jekyll-feed
+
 exclude:
   - Gemfile
   - Gemfile.lock
